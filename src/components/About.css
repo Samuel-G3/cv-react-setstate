@@ -1,30 +1,27 @@
-.card-container {
-  font-style: bold;
-  padding: 30px;
-  display: flex;
-}
-.card-title {
-  margin-top: 50px;
-  display: flex;
-  text-align: center;
-}
-/* .about-text{
-    display: flex;
-    text-align: center;
-    width:200px; 
-    justify-content:center;
-} */
- 
 
+.card-container {
+    
+    font-style: bold;
+    padding: 30px;
+    display: flex;
+    
+ 
+    
+}
+.card-title{
+    margin-top: 50px;
+}
+ 
 .card-list {
-  margin: -45px 0px 10px;
-  font-style: bold;
-  padding: 30px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+     
+   margin: -45px 0px 10px;
+    font-style: bold;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
-p {
-  margin-top: 30px;
-  letter-spacing: 1px;
-}
+ p{
+     margin-top: 30px;
+    letter-spacing: 1px;
+ }
