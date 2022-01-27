@@ -12,7 +12,7 @@ export const CV = {
       "https://www.linkedin.com/in/samuel-garc%C3%ADa-i%C3%B1esta-716747224/",
     aboutMe: 
     {
-      info: "Me llamo Samuel García. Actualmente estoy finalizando un bootcamp en Upgrade HUB de Full Stack Developer. Me gustaría incorporarme al mundo laboral para desrrollarme en el sector de la programación, ya sea en el back-end o el front-end. Me gusta todo lo relacionado con las tecnologías de la información, me interesan los temas de ciberseguridad. Estoy en cursando el último semestre del grado de Derecho. Algunas de mis aficiones son: el dibujo, el desarrollo personal, y sobre todo, aprender cosas nuevas.",
+      info: "Me llamo Samuel García. Actualmente estoy finalizando un bootcamp en Upgrade HUB de Full Stack Developer. Me gustaría incorporarme al mundo laboral para desrrollarme en el sector de la programación, ya sea en el back-end o el front-end. Me gusta todo lo relacionado con las tecnologías de la información, me interesan los temas de ciberseguridad y estoy en cursando el último semestre del grado de Derecho. Algunas de mis aficiones son: el dibujo, el desarrollo personal, y sobre todo, aprender cosas nuevas.",
     },
 
     habilities: [
