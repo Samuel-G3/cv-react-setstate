@@ -1,0 +1,106 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.card {
+  margin-top: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+img {
+  width: 300px;
+  margin: 20px;
+  border-radius: 5px;
+  opacity: 0.8;
+  border: solid black 2px;
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    width: 100%;
+  }
+}
+
+img:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  transition: 2s;
+  opacity: 1;
+  transition: 2s;
+}
+
+h2 {
+  padding: 20px;
+
+  text-shadow: 2px 2px rgba(44, 45, 46, 0.241);
+  font-size: 50px;
+}
+a {
+  text-decoration: none;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+@media only screen and (max-width: 600px) {
+  .links {
+     
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+
+  }
+}
+
+.map {
+  width: 4vh;
+  background-color: #f2e4bf;
+}
+
+.map:hover {
+  border: solid #f2e4bf 1px;
+  background-color: rgb(255, 255, 255);
+  transition: 1s;
+}
+
+.email {
+  width: 4vh;
+  background-color: #f2e4bf;
+}
+.email:hover {
+  border: solid #f2e4bf 1px;
+  background-color: rgb(255, 255, 255);
+  transition: 1s;
+}
+
+.linkedin {
+  width: 8vh;
+  background-color: #f2e4bf;
+  padding: 10px;
+}
+
+
+.linkedin:hover {
+  border: solid #f2e4bf 1px;
+  background-color: rgb(255, 255, 255);
+  transition: 1s;
+}
+.github {
+  width: 9vh;
+  background-color: #f2e4bf;
+  padding: 6px;
+}
+.github:hover {
+  border: solid #f2e4bf 1px;
+  background-color: rgb(255, 255, 255);
+  transition: 1s;
+}
